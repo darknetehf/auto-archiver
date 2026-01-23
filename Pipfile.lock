@@ -1414,20 +1414,18 @@
         },
         "protobuf": {
             "hashes": [
-                "sha256:2c69461a7fcc8e24be697624c09a839976d82ae75062b11a0972e41fd2cd9132",
-                "sha256:35cfcb15f213449af7ff6198d6eb5f739c37d7e4f1c09b5d0641babf2cc0c68f",
-                "sha256:52235802093bd8a2811abbe8bf0ab9c5f54cca0a751fdd3f6ac2a21438bffece",
-                "sha256:59379674ff119717404f7454647913787034f03fe7049cbef1d74a97bb4593f0",
-                "sha256:5e8a95246d581eef20471b5d5ba010d55f66740942b95ba9b872d918c459452f",
-                "sha256:87317e9bcda04a32f2ee82089a204d3a2f0d3c8aeed16568c7daf4756e4f1fe0",
-                "sha256:8ddc60bf374785fb7cb12510b267f59067fa10087325b8e1855b898a0d81d276",
-                "sha256:a8b9403fc70764b08d2f593ce44f1d2920c5077bf7d311fefec999f8c40f78b7",
-                "sha256:c0ea0123dac3399a2eeb1a1443d82b7afc9ff40241433296769f7da42d142ec3",
-                "sha256:ca53faf29896c526863366a52a8f4d88e69cd04ec9571ed6082fa117fac3ab36",
-                "sha256:eeea10f3dc0ac7e6b4933d32db20662902b4ab81bf28df12218aa389e9c2102d"
+                "sha256:063194f132c92892dd271e9e77fc9651c84c56a486bb6e7657b99dde8462d3a5",
+                "sha256:2250a68501df3e9381710e199771523056d442a1df1edeb3829d29e970224f68",
+                "sha256:2af017361d9ff1b52a4fe933fccf36bd5e453e3ef855dc66426ea03a006ad426",
+                "sha256:5ceac3c2c428bfa5752b28082849fd9003db613b6c90305ec14bad6036a2d717",
+                "sha256:74386406345f4d869da4a7906605a04295c1c904787992fb686ac321c9def6c3",
+                "sha256:7b42643d5ce4a9133084eec057d781e5e966b52bab68b9fdc6d7226384be931a",
+                "sha256:8c3c66f15e1035919bd105293d18c694986a7496ca105a1035a455da7b7958d2",
+                "sha256:d88119bf98ae532c2e92168471ddf2fdb3f3d3e58bf236be0c2af375d2b1b4d1"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==5.28.2"
+            "index": "pypi",
+            "markers": "python_version >= '3.10'",
+            "version": "==7.34.0rc1"
         },
         "pyaes": {
             "hashes": [
