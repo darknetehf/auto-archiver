@@ -30,7 +30,7 @@ tqdm = "*"
 jinja2 = "*"
 cryptography = "*"
 dataclasses-json = "*"
-yt-dlp = "2024.09.27"
+yt-dlp = "2026.2.21"
 vk-url-scraper = "*"
 requests = {extras = ["socks"], version = "*"}
 numpy = "1.26.4"
